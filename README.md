@@ -1,6 +1,6 @@
 # Product Homepage
 
->Live Link : [Product Homepage](https://google.com)
+>Live Link : [Product Homepage](https://producthome-page.netlify.app/)
 
 >This site should look like this - 
 ![Pic](https://raw.githubusercontent.com/aadepeng/product-homepage/main/Product%20HomePage.png)
